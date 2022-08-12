@@ -1,0 +1,37 @@
+
+label{
+    font-weight:bold;
+}
+form{
+    background-image: "loginimage.png"; 
+    background-color: white;
+
+ box-shadow: 5px 5px 5px rgba(0,0,0,2);
+ padding-top: 100px; 
+ /* margin-inline-start: auto; */
+
+
+}
+
+.color-overlay{
+    position:absolute;
+    background-color: rgba(0,0,0,0,9);
+    height:100%;
+    width:100%;
+    mix-blend-mode:normal;
+  
+
+}
+
+#main{
+    background-image: url(../images/hand.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-family: 'Ubuntu', sans-serif;
+     background-size: cover;
+     height: auto;
+     padding: 12%;
+     text-justify: auto;
+  }

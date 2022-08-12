@@ -1,0 +1,12 @@
+
+#contactmain{
+    background-image: url("../images/login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ text-align: center;
+ margin-top: 100px;
+ margin-left: 400px;
+ margin-right: 400px;
+ margin-bottom: 40px;
+ font-family:  'Ubuntu', sans-serif;
+}

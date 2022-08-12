@@ -1,0 +1,33 @@
+.user-outer,
+.Hospital-outer,
+.bloodbank-outer {
+  text-align: center;
+}
+#formcontrol {
+  width: 1200px;
+}
+.hospitalouter {
+  /* background-color: rgb(35, 155, 192); */
+  background-image: url("../images/modify8.png");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000px;
+}
+.bloodbankouter {
+  background-image: url("../images/modify8.png");
+  /* background-color:rgb(35, 155, 192); */
+  /* background-color: rgb(200, 46, 46); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000px;
+  background-position-y: -200%;
+}
+
+.userouter {
+  /* background-image: url("../images/modify7.jpg"); */
+  background-color: rgb(240, 176, 180);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000px;
+}
